@@ -1,0 +1,8 @@
+ algoritmo "MostrarNome"
+2 // aula 1 input, output e processo
+3 var
+4
+5 inicio
+6 escreva(" ")
+7
+
